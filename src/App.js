@@ -6,7 +6,7 @@ import ValidationSample from './ValidationSample';
 function App() {
   return (
     <div>
-      <h1>ㅋㅋㅋㅋㅋㅋㅋ</h1>
+      <h1>쵸쵸춈</h1>
       <Say/>
       <EventPractice/>
       <ValidationSample/>
